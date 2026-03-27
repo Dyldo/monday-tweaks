@@ -1,0 +1,14 @@
+{
+  "name": "tampermonkey-monday-tweaks",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "build:min": "vite build --mode min",
+    "dev": "vite build --watch"
+  },
+  "devDependencies": {
+    "vite": "^6.4.1"
+  }
+}

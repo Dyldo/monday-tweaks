@@ -1,0 +1,14 @@
+.monday-board-subset-item-v2 {
+  flex: 1 !important;
+}
+
+.monday-board-subset-item-v2 .monday-board-subset-item-v2__button {
+  min-width: unset !important;
+  max-width: unset !important;
+  width: 100% !important;
+}
+
+.item-page-header-component .item-page-header-details-wrapper .item-page-subsets-tabs-wrapper {
+  max-width: unset !important;
+  width: 100% !important;
+}

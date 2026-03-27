@@ -1,0 +1,21 @@
+.rainbow{
+    text-shadow: -1px 1px #ef3550,
+    -2px 2px #f48fb1,
+    -3px 3px #7e57c2,
+    -4px 4px #2196f3,
+    -5px 5px #26c6da,
+    -6px 6px #43a047,
+    -7px 7px #eeff41,
+    -8px 8px #f9a825,
+    -9px 9px #ff5722
+
+}
+
+.prog-bar{
+    position: absolute;
+    background-image: linear-gradient(to right, rgba(255, 0, 0, 0), rgb(0 255 101));
+    width: 100%;
+    height: 10px;
+    border: 0px solid gold;
+    border-radius: 4px;
+}
